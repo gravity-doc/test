@@ -79,3 +79,7 @@ sleep 6000
 
 打开本地浏览器输入`http://localhost:2567`就可以打开jupyter notebook了（`注意：使用http，不要使用https`）
 
+# 在jupyter notebook关闭已经结束的python进程
+
+
+
