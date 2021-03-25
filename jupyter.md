@@ -81,5 +81,7 @@ sleep 6000
 
 # 在jupyter notebook关闭已经结束的python进程
 
+[//]:![image](./jupyter-phy.jpg)
 
+<img src="./jupyter-phy.jpg" width="300">
 
