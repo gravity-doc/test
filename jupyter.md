@@ -87,5 +87,5 @@ sleep 6000
 
 [//]:![image](./jupyterpython.jpg)
 
-<img src="./jupyterpython.jpg" width="300">
+<img src="./jupyterpython.jpg" width="600">
 
