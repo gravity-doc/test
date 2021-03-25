@@ -81,7 +81,7 @@ sleep 6000
 
 # 在jupyterhub关闭已经结束的python进程
 
-请记住关闭已经停止运行的python进程，它会消耗大量的内存，通过点击关机按钮关闭，登录jupyterhub网址:[https://gravity.sjtu.edu.cn](https://gravity.sjtu.edu.cn)
+请记住关闭已经停止运行的python进程，它会消耗大量的内存，登录jupyterhub网址:[https://gravity.sjtu.edu.cn](https://gravity.sjtu.edu.cn),通过点击关机按钮关闭，
 如下图所述：
 
 [//]:![image](./jupyterpython.jpg)
