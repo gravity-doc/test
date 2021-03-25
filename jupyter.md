@@ -85,3 +85,7 @@ sleep 6000
 
 <img src="./jupyter-phy.jpg" width="300">
 
+[//]:![image](./jupyterpython.jpg)
+
+<img src="./jupyterpython.jpg" width="300">
+
