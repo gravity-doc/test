@@ -81,11 +81,11 @@ sleep 6000
 
 # 在jupyter notebook关闭已经结束的python进程
 
-[//]:![image](./jupyter-phy.jpg)
-
-<img src="./jupyter-phy.jpg" width="300">
+请记住关闭已经停止运行的python进程，它会消耗大量的内存，通过点击关机按钮关闭，如下图所述：
 
 [//]:![image](./jupyterpython.jpg)
 
 <img src="./jupyterpython.jpg" width="600">
+
+如果你需要需要内存很大并且时间较长的jupyter、ipython程序，可以通过提交interactive job在计算节点进行，或者改写成python脚本直接提交。
 
